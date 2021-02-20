@@ -1,2 +1,2 @@
 # ICS4U
-A simple console based representation of a bank.
+A simple console based representation of procedural tasks of a bank using Object Oriented Programming
